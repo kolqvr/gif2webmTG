@@ -44,7 +44,7 @@ Check Output: After the script finishes, you will find the converted and optimiz
 
 
 
-Mobile version (gif2webmTGm.sh):
+## Mobile version (gif2webmTGm.sh):
 Since we cannot use Python directly in Termux without some setup, we'll create a Bash script that utilizes ffmpeg (which is readily available in Termux), you can try to run the python script but it probably wouldn't work.
 
 How to Use in Termux:
