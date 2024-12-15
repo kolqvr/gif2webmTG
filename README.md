@@ -88,6 +88,6 @@ Check Output: After the script finishes, you will find the converted and optimiz
 
 
 
-Q&A:
+### Q&A:
 Q: Do i need root to run that on mobile?
 A: No, you do not need root access to use this bash script in Termux. The script and the required tools (ffmpeg, imagemagick, bc) can all be installed and used within the regular, unrooted Termux environment.
